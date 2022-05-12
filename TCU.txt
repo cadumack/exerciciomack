@@ -1,0 +1,296 @@
+O Tribunal de Contas da União - TCU e este Pregoeiro, designado pela Portaria-Selip nº 01, de 05 de janeiro de 2022, levam ao conhecimento dos interessados que, na forma da Lei n.º 10.520/2002, dos Decretos n.º 7.892/2013 e n.º 10.024/2019, da Lei Complementar n.º 123/2006 e, subsidiariamente, da Lei n.º 8.666/1993 e de outras normas aplicáveis ao objeto deste certame, farão realizar licitação na modalidade Pregão Eletrônico mediante as condições estabelecidas neste Edital. 
+DA SESSÃO PÚBLICA DO PREGÃO ELETRÔNICO: 
+DIA: 25 de abril de 2022 
+HORÁRIO:10h (horário de Brasília/DF) 
+ENDEREÇO ELETRÔNICO: www.gov.br/compras 
+CÓDIGO UASG: 30001 
+SEÇÃO I - DO OBJETO 
+1. Constitui o objeto da presente licitação a aquisição de solução de rede local sem fio de sexta geração (IEEE 802.11ax), compreendendo o fornecimento de pontos de acesso (access points), controladores WLAN, software de gerenciamento, software de controle de acesso à rede (NAC), serviços de instalação, treinamento e garantia estendida on-site de 60 (sessenta) meses, em regime de empreitada por preço unitário, conforme especificações constantes em anexo. 1.1. Em caso de discordância existente entre as especificações deste objeto descritas no Portal Compras.gov.br e as especificações constantes deste Edital, prevalecerão as últimas. 
+
+
+SEÇÃO II - DA DESPESA E DOS RECURSOS ORÇAMENTÁRIOS 
+2. A despesa com a execução do objeto desta licitação para o Órgão Gerenciador é estimada em R$ 2.752.071,04 (dois milhões setecentos e cinquenta e dois mil setenta e um reais e quatro centavos). 
+
+SEÇÃO III - DA PARTICIPAÇÃO NA LICITAÇÃO 
+3. Poderão participar deste Pregão, as interessadas que estiverem previamente credenciadas no Sistema de Cadastramento Unificado de Fornecedores - Sicaf e no sítio www.gov.br/compras. 
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+2 
+3.1. Para ter acesso ao sistema eletrônico, os interessados em participar deste Pregão deverão dispor de chave de identificação e senha pessoal, informando-se a respeito do funcionamento e regulamento do sistema. 
+3.2. O uso da senha de acesso pela licitante é de sua responsabilidade exclusiva, incluindo qualquer transação por ela efetuada diretamente, ou por seu representante, não cabendo ao provedor do sistema ou ao TCU responsabilidade por eventuais danos decorrentes do uso indevido da senha, ainda que por terceiros. 
+
+4. Não poderão participar deste Pregão: 4.1. consórcio de empresa, qualquer que seja sua forma de constituição; 
+4.2. empresário suspenso de participar de licitação e impedido de contratar com o TCU, durante o prazo da sanção aplicada; 
+4.3. empresário declarado inidôneo para licitar ou contratar com a Administração Pública, enquanto perdurarem os motivos determinantes da punição ou até que seja promovida sua reabilitação; 
+4.4. empresário impedido de licitar e contratar com a União, durante o prazo da sanção aplicada; 
+4.5. empresário proibido de contratar com o Poder Público, em razão do disposto no art.72, § 8º, V, da Lei n.º 9.605/98; 
+4.6. empresário proibido de contratar com o Poder Público, nos termos do art. 12 da Lei n.º 8.429/92; 
+4.7. quaisquer interessados enquadrados nas vedações previstas no art. 9º da Lei n.º 8.666/93; 4.7.1. Entende-se por "participação indireta" a que alude o art. 9º da Lei n.º 8.666/93 a participação no certame de empresa em que uma das pessoas listadas no mencionado dispositivo legal figure como sócia, pouco importando o seu conhecimento técnico acerca do objeto da licitação ou mesmo a atuação no processo licitatório. 
+
+4.8. sociedade estrangeira não autorizada a funcionar no País; 
+4.9. empresário cujo estatuto ou contrato social não seja pertinente e compatível com o objeto deste Pregão; 
+4.10. empresário que se encontre em processo de dissolução, falência, fusão, cisão ou incorporação; 
+4.11. sociedades integrantes de um mesmo grupo econômico, assim entendidas aquelas que tenham diretores, sócios ou representantes legais comuns, ou que utilizem recursos materiais, tecnológicos ou humanos em comum, exceto se demonstrado que não agem representando interesse econômico comum. 
+
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+3 
+SEÇÃO IV - DA VISTORIA 
+5. Não se exigirá que a licitante realize vistoria do local de entrega do objeto. 
+
+SEÇÃO V - DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO 
+6. A licitante deverá encaminhar proposta, concomitantemente com os documentos de habilitação exigidos neste Edital, exclusivamente por meio do sistema eletrônico, até a data e horário marcados para abertura da sessão pública, quando então encerrar-se-á automaticamente a fase de recebimento de propostas e dos documentos de habilitação. 6.1. A licitante deverá consignar, na forma expressa no sistema eletrônico, o valor unitário ofertado para cada item do grupo, já considerados e inclusos todos os tributos, fretes, tarifas e demais despesas decorrentes da execução do objeto. 
+
+7. A licitante deverá declarar, em campo próprio do sistema eletrônico, que cumpre plenamente os requisitos de habilitação e que sua proposta está em conformidade com as exigências do Edital. 
+8. A licitante deverá declarar, em campo próprio do Sistema, sob pena de inabilitação, que não emprega menores de dezoito anos em trabalho noturno, perigoso ou insalubre, nem menores de dezesseis anos em qualquer trabalho, salvo na condição de aprendiz, a partir dos quatorze anos. 
+9. A licitante enquadrada como microempresa ou empresa de pequeno porte deverá declarar, em campo próprio do Sistema, que atende aos requisitos do art. 3º da LC n.º 123/2006, para fazer jus aos benefícios previstos nessa lei. 
+10. A declaração falsa relativa ao cumprimento dos requisitos de habilitação, à conformidade da proposta ou ao enquadramento como microempresa ou empresa de pequeno porte sujeitará a licitante às sanções previstas neste Edital. 
+11. As propostas ficarão disponíveis no sistema eletrônico. 11.1. Qualquer elemento que possa identificar a licitante importa desclassificação da proposta, sem prejuízo das sanções previstas nesse Edital. 
+11.2. Até a abertura da sessão pública, a licitante poderá retirar ou substituir a proposta e os documentos de habilitação anteriormente encaminhados. 
+11.3. O Pregoeiro deverá suspender a sessão pública do Pregão quando constatar que a avaliação da conformidade das propostas, de que trata o art. 28 do Decreto n.º 10.024/2019, irá perdurar por mais de um dia. 11.3.1. Após a suspensão da sessão pública, o Pregoeiro enviará, via chat, mensagens às licitantes informando a data e o horário previstos para o início da oferta de lances. 
+
+11.4. As propostas terão validade de 60 (sessenta) dias, contados da data de abertura da sessão pública estabelecida no preâmbulo deste Edital. 11.4.1. Decorrido o prazo de validade das propostas, sem convocação para assinatura da Ata de Registro de Preços, ficam as licitantes liberadas dos compromissos assumidos. 
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+4 
+SEÇÃO VI - DA ABERTURA DA SESSÃO PÚBLICA 
+12. A abertura da sessão pública deste Pregão, conduzida pelo Pregoeiro, ocorrerá na data e na hora indicadas no preâmbulo deste Edital, no sítio www.gov.br/compras. 
+13. Durante a sessão pública, a comunicação entre o Pregoeiro e as licitantes ocorrerá exclusivamente mediante troca de mensagens, em campo próprio do sistema eletrônico. 
+14. Cabe à licitante acompanhar as operações no sistema eletrônico durante a sessão pública do Pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de qualquer mensagem emitida pelo sistema ou de sua desconexão. 
+
+SEÇÃO VII - DA CLASSIFICAÇÃO DAS PROPOSTAS 
+15. O Pregoeiro verificará as propostas apresentadas e desclassificará, motivadamente, aquelas que não estejam em conformidade com os requisitos estabelecidos neste Edital. 
+16. Somente as licitantes com propostas classificadas participarão da fase de lances. 
+
+SEÇÃO VIII - DA FORMULAÇÃO DE LANCES 
+17. Aberta a etapa competitiva, as licitantes classificadas poderão encaminhar lances sucessivos, exclusivamente por meio do sistema eletrônico, sendo imediatamente informadas do horário e valor consignados no registro de cada lance. 
+18. A licitante somente poderá oferecer lance inferior ao último por ela ofertado e registrado no sistema. 
+19. Durante o transcurso da sessão, as licitantes serão informadas, em tempo real, do valor do menor lance registrado, mantendo-se em sigilo a identificação da ofertante. 
+20. Em caso de empate, prevalecerá o lance recebido e registrado primeiro. 
+21. Os lances apresentados e levados em consideração para efeito de julgamento serão de exclusiva e total responsabilidade da licitante, não lhe cabendo o direito de pleitear qualquer alteração. 
+22. Durante a fase de lances, o Pregoeiro poderá excluir, justificadamente, lance cujo valor seja manifestamente inexequível. 
+23. Se ocorrer a desconexão do Pregoeiro no decorrer da etapa de lances, e o sistema eletrônico permanecer acessível às licitantes, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados. 
+24. No caso de a desconexão do Pregoeiro persistir por tempo superior a 10 (dez) minutos, a sessão pública do Pregão será suspensa e reiniciada somente decorridas 24 (vinte e quatro) horas após a comunicação expressa do fato aos participantes no sítio www.gov.br/compras. 
+25. Neste Pregão o modo de disputa adotado é o aberto, assim definido no inciso I art. 31º do Decreto n.º 10.024/2019. 
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+5 
+25.1. A etapa de lances na sessão pública durará 10 (dez) minutos, e após isso, será prorrogada automaticamente pelo sistema eletrônico quando houver lance ofertado nos últimos 2 (dois) minutos do período de duração da sessão pública. 
+25.2. O intervalo de diferença entre os lances deverá ser de, no mínimo, R$ 100,00 (cem reais), tanto em relação aos lances intermediários, quanto em relação do lance que cobrir a melhor oferta. 
+
+
+SEÇÃO IX - DO BENEFÍCIO ÀS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE 
+26. Após a fase de lances, se a proposta mais bem classificada não tiver sido apresentada por microempresa ou empresa de pequeno porte, e houver proposta de microempresa ou empresa de pequeno porte que seja igual ou até 5% (cinco por cento) superior à proposta mais bem classificada, proceder-se-á da seguinte forma: 26.1. a microempresa ou a empresa de pequeno porte mais bem classificada poderá, no prazo de 5 (cinco) minutos, contados do envio da mensagem automática pelo sistema, apresentar uma última oferta, obrigatoriamente inferior à proposta do primeiro colocado, situação em que, atendidas as exigências habilitatórias e observado o valor estimado para a contratação, será adjudicado em seu favor o objeto deste Pregão; 26.1.1. Caso a licitante tenha utilizado a prerrogativa de efetuar oferta de desempate, conforme art. 44, da Lei Complementar n.º 123/2006, será verificado no Portal da Transparência do Governo Federal, no endereço eletrônico http://www.portaldatransparencia.gov.br, e no Portal da Transparência do Poder Judiciário, no endereço eletrônico www.portaltransparencia.jus.br, se o somatório de ordens bancárias recebidas pela licitante, relativas ao último exercício e ao exercício corrente, até o mês anterior ao da data da licitação, fixada no preâmbulo deste Edital, já seria suficiente para extrapolar o faturamento máximo permitido, conforme art. 3º da mencionada Lei Complementar. 
+
+26.2. não sendo vencedora a microempresa ou a empresa de pequeno porte mais bem classificada, na forma da subcondição anterior, o sistema, de forma automática, convocará as licitantes remanescentes que porventura se enquadrem na situação descrita nesta condição, na ordem classificatória, para o exercício do mesmo direito; 
+26.3. no caso de equivalência dos valores apresentados pelas microempresas ou empresas de pequeno porte que se encontrem no intervalo estabelecido nesta condição, o sistema fará um sorteio eletrônico, definindo e convocando automaticamente a vencedora para o encaminhamento da oferta final do desempate; 
+26.4. a convocada que não apresentar proposta dentro do prazo de 5 (cinco) minutos, controlados pelo Sistema, decairá do direito previsto nos artigos 44 e 45 da Lei Complementar n.º 123/2006; 
+26.5. na hipótese de não contratação nos termos previstos nesta Seção, o procedimento licitatório prossegue com as demais licitantes. 
+
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+6 
+SEÇÃO X - DA NEGOCIAÇÃO 
+27. Encerrada a etapa de envio de lances da sessão pública, o Pregoeiro deverá encaminhar, pelo sistema eletrônico, contraproposta à licitante que tenha apresentado o melhor preço, para que seja obtida melhor proposta, vedada a negociação em condições diferentes das previstas neste Edital. 27.1. A negociação será realizada por meio do sistema, podendo ser acompanhada pelas demais licitantes. 
+
+
+SEÇÃO XI - DA ACEITABILIDADE DA PROPOSTA 
+28. A licitante melhor classificada deverá encaminhar a proposta de preço adequada ao último lance, devidamente preenchida na forma do Anexo III - Modelo de Proposta de Preços, em arquivo único, no prazo de 03 (três) horas, contado da convocação efetuada pelo Pregoeiro por meio da opção "Enviar Anexo" no Portal Compras.gov.br. 
+29. O Pregoeiro examinará a proposta mais bem classificada quanto à compatibilidade do preço ofertado com o valor estimado e à compatibilidade da proposta com as especificações técnicas do objeto. 29.1. O Pregoeiro poderá solicitar parecer de técnicos pertencentes ao quadro de pessoal do Tribunal de Contas da União - TCU ou, ainda, de pessoas físicas ou jurídicas estranhas a ele, para orientar sua decisão. 
+29.2. Não se considerará qualquer oferta de vantagem não prevista neste Edital, inclusive financiamentos subsidiados ou a fundo perdido. 
+29.3. Não se admitirá proposta que apresente valores simbólicos, irrisórios ou de valor zero, incompatíveis com os preços de mercado, exceto quando se referirem a materiais e instalações de propriedade da licitante, para os quais ela renuncie à parcela ou à totalidade de remuneração. 
+29.4. O Pregoeiro poderá fixar prazo para o reenvio do anexo contendo a planilha de composição de preços quando o preço total ofertado for aceitável, mas os preços unitários que compõem necessitem de ajustes aos valores estimados pelo Tribunal de Contas da União - TCU. 
+29.5. Não serão aceitas propostas com valor unitário ou global superior ao estimado ou com preços manifestamente inexequíveis. 29.5.1. O valor total de cada item da proposta vencedora não poderá exceder o valor total estimado para esse mesmo item. 
+29.5.2. No caso de a licitante oferecer o software de controle de acesso (NAC) e o software de gerenciamento da solução num único produto, seu valor na proposta vencedora não poderá exceder a soma dos valores dos itens 3 e 4 no preço estimado. 
+29.5.3. Neste caso, o valor do respectivo serviço de instalação e configuração na proposta vencedora não poderá exceder a soma dos valores dos itens 7 e 8 no preço estimado. 
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+7 
+29.5.4. Os critérios de aceitabilidade são cumulativos, verificando-se tanto o valor global quanto os valores unitários estimativos da contratação. 
+29.5.5. Considerar-se-á inexequível a proposta que não venha a ter demonstrada sua viabilidade por meio de documentação que comprove que os custos envolvidos na contratação são coerentes com os de mercado do objeto deste Pregão. 
+
+29.6. Será desclassificada a proposta que não corrigir ou não justificar eventuais falhas apontadas pelo Pregoeiro. 
+
+30. A licitante que abandonar o certame, deixando de enviar a documentação indicada neste Edital, será desclassificada e sujeitar-se-á às sanções previstas neste instrumento convocatório. 
+31. Se a proposta não for aceitável, ou se a licitante não atender às exigências de habilitação, o Pregoeiro examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, até a seleção da proposta que melhor atenda a este Edital. 
+
+SEÇÃO XII - DA HABILITAÇÃO 
+32. A habilitação das licitantes será julgada com base nos documentos encaminhados, concomitantemente à proposta, exclusivamente por meio do sistema eletrônico, até a data e horário marcados para a abertura da sessão pública. 
+33. As licitantes poderão deixar de apresentar os documentos de habilitação que constem do Sicaf, assegurado às demais licitantes o direito de acesso aos dados constantes do referido sistema. 
+34. O Pregoeiro verificará eventual descumprimento das vedações elencadas na Condição 4 da Seção III - Da Participação na Licitação, mediante consulta ao: 34.1. Sicaf, a fim de verificar a composição societária das empresas e certificar eventual participação indireta que ofenda ao art. 9º, III, da Lei n.º 8.666/93; 
+34.2. Portal eletrônico do TCU, na ferramenta de pesquisa consolidada de pessoa jurídica, disponível no endereço https://certidoes-apf.apps.tcu.gov.br/. 
+
+35. As consultas previstas na Condição anterior realizar-se-ão em nome da sociedade empresária licitante e de eventual matriz ou filial e de seu sócio majoritário. 
+36. Efetuada a verificação referente ao cumprimento das condições de participação no certame, a habilitação das licitantes será realizada mediante a apresentação do seguinte documento, para fins de regularidade trabalhista: 36.1. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a apresentação de certidão negativa, nos termos do Título VII-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei n.º 5.452, de 1º de maio de 1943, tendo em vista o disposto no art. 3º da Lei n.º 12.440, de 7 de julho de 2011. 
+
+37. Para fins de qualificação econômico-financeira, deverá ser apresentado: 37.1. Balanço Patrimonial do último exercício social exigível, apresentado na forma da lei e regulamentos na data de realização deste Pregão, vedada sua substituição por balancetes ou balanços provisórios, podendo ser atualizado por índices oficiais quando encerrados há mais de 3 (três) meses da data da sessão pública de abertura deste Pregão. 
+
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+8 
+37.1.1. O documento exigido na condição anterior deverá comprovar Patrimônio Líquido não inferior a 10% (dez por cento) do valor da proposta, quando qualquer dos índices Liquidez Geral, Liquidez Corrente e Solvência Geral, informados pelo Sicaf, for igual ou inferior a 1. 
+
+
+38. Para fins de qualificação técnico-operacional, deverão ser apresentados: 38.1. Atestado(s) ou Declaração(ões) de capacidade técnica, em nome da licitante, expedido por pessoa(s) jurídica(s) de direito público ou privado, que comprovem ter a licitante fornecido, na mesma solução de rede sem fio pelo menos: 38.1.1. 2 (duas) controladoras wireless (física ou appliance virtual); 
+38.1.2. 50 (cinquenta) access points. 
+
+
+39. O Pregoeiro poderá consultar sítios oficiais de órgãos e entidades emissores de certidões, para verificar as condições de habilitação das licitantes. 
+40. Documentos complementares, quando necessários à confirmação daqueles exigidos no Edital e já apresentados até a data e o horário estabelecidos para abertura da sessão pública, deverão, mediante solicitação do Pregoeiro, ser enviados juntamente à proposta adequada ao último lance. 40.1. Os documentos remetidos por meio da opção "Enviar Anexo" do Portal Compras.gov.br poderão ser solicitados em original ou por cópia autenticada a qualquer momento, em prazo a ser estabelecido pelo Pregoeiro. 40.1.1. Os originais ou cópias autenticadas, caso sejam solicitados, deverão ser encaminhados ao Serviço de Editais e Pregões - SEP do Tribunal de Contas da União, situado no Setor de Administração Federal Sul - SAFS, Quadra 04, Lote 1, Anexo I, sala 103, CEP 70042-900, Brasília-DF. 
+
+40.2. Sob pena de inabilitação, os documentos encaminhados deverão estar em nome da licitante, com indicação do número de inscrição no CNPJ. 
+40.3. As exigências a serem comprovadas por documentação emitida em língua estrangeira serão atendidas mediante documentos equivalentes, inicialmente apresentados com tradução livre. 
+40.4. Para fins de assinatura do contrato, os documentos emitidos em língua estrangeira serão traduzidos por tradutor juramentado no País e apostilados nos termos do disposto no Decreto n.º 8.660, de 29 de janeiro de 2016, ou de outro que venha a substituí-lo, ou consularizados pelos respectivos consulados ou embaixadas. 
+40.5. Em se tratando de filial, os documentos de habilitação jurídica e regularidade fiscal deverão estar em nome da filial, exceto aqueles que, pela própria natureza, são emitidos somente em nome da matriz. 
+40.6. Em se tratando de microempresa ou empresa de pequeno porte, havendo alguma restrição na comprovação de regularidade fiscal e trabalhista, será assegurado o prazo de 5 (cinco) dias úteis, prorrogável por igual período, para a regularização da documentação, a realização do pagamento ou parcelamento do débito e a emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa. 
+
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+9 
+40.6.1. O prazo para regularização fiscal e trabalhista será contado a partir do momento em que o proponente for declarado o vencedor do certame. 
+40.6.2. A prorrogação do prazo previsto poderá ser concedida, a critério da administração pública, quando requerida pela licitante, mediante apresentação de justificativa. 
+
+40.7. A não regularização da documentação, no prazo previsto na subcondição anterior, implicará decadência do direito ao registro de preços e à contratação, sem prejuízo das sanções previstas neste Edital, e facultará ao Pregoeiro convocar as licitantes remanescentes, na ordem de classificação. 
+
+41. Constatado o atendimento às exigências fixadas neste Edital, a licitante será declarada vencedora. 
+
+SEÇÃO XIII - DA AMOSTRA 
+42. Não se exigirá a apresentação de amostra do produto ofertado. 
+
+SEÇÃO XIV - DO RECURSO 
+43. Declarada a vencedora, o Pregoeiro abrirá prazo de 30 (trinta) minutos, durante o qual qualquer licitante poderá, de forma imediata e motivada, em campo próprio do sistema, manifestar sua intenção de recurso. 43.1. A falta de manifestação no prazo estabelecido autoriza o Pregoeiro a adjudicar o objeto à licitante vencedora. 
+43.2. O Pregoeiro examinará a intenção de recurso, aceitando-a ou, motivadamente, rejeitando-a, em campo próprio do sistema. 
+43.3. A licitante que tiver sua intenção de recurso aceita deverá registrar as razões do recurso, em campo próprio do sistema, no prazo de 3 (três) dias, ficando as demais licitantes, desde logo, intimadas a apresentar contrarrazões, também via sistema, em igual prazo, que começará a correr do término do prazo da recorrente. 
+
+44. Para efeito do disposto no § 5º do artigo 109 da Lei n.º 8.666/1993, fica a vista dos autos do TC 025.412/2021-3 franqueada aos interessados. 
+45. As intenções de recurso não admitidas e os recursos rejeitados pelo Pregoeiro serão apreciados pela autoridade competente. 
+46. O acolhimento do recurso implicará a invalidação apenas dos atos insuscetíveis de aproveitamento. 
+
+SEÇÃO XV - DA ADJUDICAÇÃO E HOMOLOGAÇÃO 
+47. O objeto deste Pregão será adjudicado pelo Pregoeiro, salvo quando houver recurso, hipótese em que a adjudicação caberá à autoridade competente para homologação. 
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+10 
+48. A homologação deste Pregão compete ao Secretário Geral de Administração do Tribunal de Contas da União. 
+49. O objeto deste Pregão será adjudicado à licitante vencedora do grupo de itens. 
+
+SEÇÃO XVI - DO REGISTRO DE PREÇOS 
+50. O Tribunal de Contas da União - TCU é o órgão gerenciador responsável pela condução do conjunto de procedimentos para registro de preços e gerenciamento da Ata de Registro de Preços dele decorrente. 50.1. A Selip/Segedam será a unidade responsável pelos atos de controle e administração da Ata de Registro de Preços decorrentes desta licitação. 
+
+51. São órgãos participantes os órgãos ou entidades da administração pública que participam dos procedimentos iniciais do Sistema de Registro de Preços e integram a Ata de Registro de Preços. 
+52. O órgão participante será responsável pela manifestação de interesse em participar do registro de preços, no módulo Intenção de Registro de Preços - IRP do Portal Compras.gov.br. 
+53. Os órgãos e entidades que não participaram do registro de preços, quando desejarem fazer uso da Ata de Registro de Preços, deverão consultar o TCU - Órgão Gerenciador para manifestação sobre a possibilidade de adesão. 53.1. As aquisições ou contratações adicionais decorrentes da adesão à Ata de Registro de Preços não poderão exceder, por órgão ou entidade, a 50% (cinquenta por cento) dos quantitativos dos itens registrados na Ata de Registro de Preços para o órgão gerenciador e órgãos participantes. 
+53.2. O quantitativo decorrente das adesões à Ata de Registro de Preços não poderá exceder, na totalidade, ao dobro do quantitativo de cada item registrado na Ata de Registro de Preços para o órgão gerenciador e órgãos participantes, independentemente do número de órgãos não participantes que aderirem. 
+53.3. Será vedada a possibilidade de adesão separada de itens para os quais a licitante vencedora não apresentou o menor preço. 
+53.4. Após a autorização do órgão gerenciador, o órgão não participante deverá efetivar a aquisição ou contratação solicitada em até 90 (noventa) dias, observado o prazo de vigência da Ata. 53.4.1. O Tribunal de Contas da União - TCU poderá autorizar, excepcional e justificadamente, a prorrogação deste prazo, respeitado o prazo de vigência da Ata, quando solicitada pelo órgão não participante. 
+
+53.5. Caberá ao fornecedor beneficiário da Ata de Registro de Preços, observadas as condições nela estabelecidas, optar pela aceitação ou não do fornecimento decorrente de adesão, desde que não prejudique as obrigações presentes e futuras decorrentes da Ata, assumidas com o órgão gerenciador e órgãos participantes. 
+
+54. Por ocasião da homologação da licitação, será incluído, na respectiva Ata de Registro de Preços na forma de anexo, o registro das licitantes não desclassificadas que aceitarem cotar os bens ou 
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+11 
+serviços com preços iguais aos da licitante vencedora na sequência da classificação do certame, excluído o percentual referente à margem de preferência, quando o objeto não atender aos requisitos previstos no art. 3º da Lei n.º 8.666/93. 55. Homologado o resultado deste Pregão, a licitante mais bem classificada será convocada para assinar a Ata de Registro de Preços, no prazo de até 5 (cinco) dias úteis, contado da data do recebimento do documento oficial de convocação. 
+56. Publicada na Imprensa Oficial, a Ata de Registro de Preços implicará compromisso de fornecimento nas condições estabelecidas, conforme disposto no artigo 14 do Decreto n.º 7.892/2013. 
+57. A existência de preços registrados não obriga a Administração a contratar, facultando-se a realização de licitação específica para a aquisição pretendida, assegurada preferência ao fornecedor registrado em igualdade de condições. 
+58. O prazo de validade improrrogável da Ata de Registro de Preços é de 12 (doze) meses, contado da data da sua assinatura, excluído o dia do começo e incluído o do vencimento. 
+59. Durante a vigência da Ata, os preços registrados serão fixos e irreajustáveis, exceto nas hipóteses decorrentes e devidamente comprovadas das situações previstas na alínea "d" do inciso II do art. 65 da Lei n.º 8.666/1993 ou no artigo 17 do Decreto n.º 7.892/2013. 59.1. Nessa hipótese, a Administração, por razão de interesse público, poderá optar por cancelar a Ata, facultando-se à Administração, independentemente do cancelamento da Ata e a qualquer tempo, iniciar outro processo licitatório. 
+
+60. Quando o preço registrado se tornar superior ao preço praticado no mercado por motivo superveniente, o órgão gerenciador convocará os fornecedores para negociarem a redução dos preços aos valores praticados pelo mercado. 60.1. Os fornecedores que não aceitarem reduzir seus preços aos valores praticados pelo mercado serão liberados do compromisso assumido, sem aplicação de penalidade. 
+60.2. A ordem de classificação dos fornecedores que aceitarem reduzir seus preços aos valores de mercado observará a classificação original. 
+
+61. Quando o preço de mercado se tornar superior aos preços registrados e o fornecedor não puder cumprir o compromisso, o órgão gerenciador poderá: 61.1. liberar o fornecedor do compromisso assumido, caso a comunicação ocorra antes do pedido de fornecimento, e sem aplicação da penalidade se confirmada a veracidade dos motivos e comprovantes apresentados; e 
+61.2. convocar os demais fornecedores para assegurar igual oportunidade de negociação. 
+
+
+55.1. O prazo para que a licitante mais bem classificada compareça após ser convocada, poderá ser prorrogado, uma única vez, por igual período, desde que ocorra motivo justificado e aceito pelo Tribunal de Contas da União - TCU. 
+55.2. É facultado ao Tribunal de Contas da União - TCU, quando a convocada não assinar a Ata de Registro de Preços no prazo e condições estabelecidos, convocar as licitantes remanescentes, na ordem de classificação, para fazê-lo em igual prazo, nos termos do parágrafo único do art. 13 do Decreto n.º 7.892/2013. 
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+12 
+62. Não havendo êxito nas negociações previstas na Condição anterior, o órgão gerenciador deverá proceder à revogação da Ata de Registro de Preços, adotando as medidas cabíveis para obtenção da contratação mais vantajosa. 
+63. O registro do fornecedor será cancelado e formalizado por despacho do órgão gerenciador, assegurado o contraditório e a ampla defesa, quando este: 63.1. descumprir as condições da Ata de Registro de Preços; 
+63.2. não retirar a nota de empenho ou instrumento equivalente no prazo estabelecido pela Administração, sem justificativa aceitável; 
+63.3. sofrer sanção prevista nos incisos III ou IV do caput do art. 87 da Lei n.º 8.666, de 1993, ou estiver impedido de licitar e contratar com a Administração, conforme previsto no art. 7º da Lei n.º 10.520, de 2002. 
+
+64. O registro será cancelado, de ofício, quando o fornecedor não aceitar reduzir o seu preço registrado, na hipótese de este se tornar superior àqueles praticados no mercado. 
+65. O cancelamento do registro de preços poderá ocorrer por fato superveniente, decorrente de caso fortuito ou força maior, que prejudique o cumprimento da Ata, devidamente comprovados e justificados: 65.1. por razão de interesse público; ou 
+65.2. a pedido do fornecedor. 
+
+66. Em qualquer das hipóteses anteriores que impliquem a alteração da Ata registrada, concluídos os procedimentos de ajuste, o Tribunal de Contas da União - TCU fará o devido apostilamento na Ata de Registro de Preços e informará aos fornecedores registrados a nova ordem de classificação. 
+67. A Ata de Registro de Preços, decorrente desta licitação, será encerrada, automaticamente, por decurso do prazo de sua vigência ou pela contratação da totalidade do objeto nela registrado. 
+
+SEÇÃO XVII - DO INSTRUMENTO CONTRATUAL 
+68. Depois de assinada a Ata de Registro de Preços, o fornecedor registrado poderá ser convocado, a qualquer tempo durante a vigência da Ata, para assinatura do contrato, dentro do prazo de 5 (cinco) dias úteis, contado da data do recebimento do documento oficial de convocação, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas neste Edital. 68.1. Poderá ser acrescentada ao contrato a ser assinado qualquer vantagem apresentada pelo fornecedor registrado em sua proposta, desde que seja pertinente e compatível com os termos deste Edital. 
+
+69. O prazo para assinatura do contrato, poderá ser prorrogado uma única vez, por igual período, quando solicitado pelo fornecedor registrado durante o seu transcurso, desde que ocorra motivo justificado e aceito pelo Tribunal de Contas da União - TCU. 
+70. Por ocasião da assinatura do contrato, verificar-se-á por meio do Sicaf e de outros meios se a licitante vencedora mantém as condições de habilitação. 
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+13 
+SEÇÃO XVIII - DAS SANÇÕES 
+71. A licitante ficará impedida de licitar e contratar com a União e será descredenciada no Sicaf, pelo prazo de até 5 (cinco) anos, sem prejuízo de multa de até 30% (trinta por cento) do valor anual estimado para a contratação e demais cominações legais, nos seguintes casos: 71.1. cometer fraude fiscal; 
+71.2. apresentar documento falso; 
+71.3. fizer declaração falsa; 
+71.4. comportar-se de modo inidôneo; 71.4.1. reputar-se-ão inidôneos atos como os descritos no Capítulo II-B do Título XI da Parte Especial do Código Penal. 
+
+71.5. não assinar a Ata de Registro de Preços no prazo estabelecido; 
+71.6. não assinar o contrato no prazo estabelecido; 
+71.7. deixar de entregar a documentação exigida no certame; 
+71.8. não mantiver a proposta. 
+
+72. Na hipótese de abertura de processo administrativo destinado a apuração de fatos e, se for o caso, aplicação de sanções à licitante, em decorrência de conduta vedada neste Pregão, as comunicações à licitante serão efetuadas por meio do endereço de correio eletrônico ("e-mail") cadastrado no credenciamento da empresa junto ao Sicaf. 72.1. A licitante deverá manter atualizado o endereço de correio eletrônico ("e-mail") cadastrado junto ao Sicaf e confirmar o recebimento das mensagens provenientes do Tribunal de Contas da União - TCU, não podendo alegar o desconhecimento do recebimento das comunicações por este meio como justificativa para se eximir das responsabilidades assumidas ou eventuais sanções aplicadas. 
+
+
+SEÇÃO XIX - DOS ESCLARECIMENTOS E IMPUGNAÇÃO DO EDITAL 
+73. Até 3 (três) dias úteis antes da data fixada para abertura da sessão pública, qualquer pessoa, física ou jurídica, poderá impugnar o ato convocatório deste Pregão mediante petição a ser enviada exclusivamente para o endereço eletrônico cpl@tcu.gov.br, até as 19 horas, no horário oficial de Brasília-DF. 
+74. O Pregoeiro, auxiliado pelo setor técnico competente, decidirá sobre a impugnação no prazo de 2 (dois) dias úteis, contado da data de recebimento da impugnação. 
+75. Acolhida a impugnação contra este Edital, será designada nova data para a realização do certame, exceto quando, inquestionavelmente, a alteração não afetar a formulação das propostas. 
+76. Os pedidos de esclarecimentos devem ser enviados ao Pregoeiro até 3 (três) dias úteis antes da data fixada para abertura da sessão pública, exclusivamente para o endereço eletrônico cpl@tcu.gov.br. 
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+14 
+77. O Pregoeiro, auxiliado pelo setor técnico competente, responderá os pedidos de esclarecimentos no prazo de 2 (dois) dias úteis, contado da data de recebimento do pedido. 
+78. As respostas às impugnações e aos esclarecimentos solicitados serão disponibilizadas no sistema eletrônico para os interessados. 
+
+SEÇÃO XX - DISPOSIÇÕES FINAIS 
+79. Ao Secretário Geral de Administração do Tribunal de Contas da União compete anular este Pregão por ilegalidade, de ofício ou por provocação de qualquer pessoa, e revogar o certame por considerá-lo inoportuno ou inconveniente diante de fato superveniente, mediante ato escrito e fundamentado. 79.1. A anulação do Pregão induz à da Ata de Registro de Preços, bem como à do contrato. 
+79.2. As licitantes não terão direito à indenização em decorrência da anulação do procedimento licitatório, ressalvado o direito do contratado de boa-fé de ser ressarcido pelos encargos que tiver suportado no cumprimento do contrato. 
+
+80. É facultado ao Pregoeiro ou à autoridade superior, em qualquer fase deste Pregão, promover diligência destinada a esclarecer ou completar a instrução do processo, vedada a inclusão posterior de informação ou de documentos que deveriam ter sido apresentados para fins de classificação e habilitação. 
+81. No julgamento das propostas e na fase de habilitação, o Pregoeiro poderá sanar erros ou falhas que não alterem a substância das propostas e dos documentos e a sua validade jurídica, mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes validade e eficácia para fins de classificação e habilitação. 81.1. Caso os prazos definidos neste Edital não estejam expressamente indicados na proposta, eles serão considerados como aceitos para efeito de julgamento deste Pregão. 
+
+82. Os documentos eletrônicos produzidos com a utilização de processo de certificação disponibilizada pela ICP-Brasil, nos termos da Medida Provisória n.º 2.200-2, de 24 de agosto de 2001, serão recebidos e presumidos verdadeiros em relação aos signatários, dispensando-se o envio de documentos originais e cópias autenticadas em papel. 
+83. Aplicam-se às cooperativas enquadradas na situação do art. 34 da Lei nº 11.488, de 15 de junho de 2007, todas as disposições relativas às microempresas e empresas de pequeno porte. 
+84. Em caso de divergência entre normas infralegais e as contidas neste Edital, prevalecerão as últimas. 
+85. Este Pregão poderá ter a data de abertura da sessão pública transferida por conveniência do TCU, sem prejuízo do disposto no art. 4, inciso V, da Lei n.º 10.520/2002. 
+
+SEÇÃO XXI - DOS ANEXOS 
+86. São partes integrantes deste Edital os seguintes anexos: 86.1. Anexo I - Termo de Referência; 
+
+
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+15 
+86.2. Anexo II - Especificações Técnicas; 
+86.3. Anexo III - Modelo de Proposta de Preços; 
+86.4. Anexo IV - Minuta da Ata de Registro de Preços; 
+86.5. Anexo V - Minuta do Contrato; 
+86.6. Anexo VI - Modelo de Carta de Fiança Bancária para Garantia de Execução Contratual. 
+
+
+SEÇÃO XXII - DO FORO 
+87. As questões decorrentes da execução deste Instrumento, que não possam ser dirimidas administrativamente, serão processadas e julgadas na Justiça Federal, no Foro da cidade de Brasília/DF, Seção Judiciária do Distrito Federal, com exclusão de qualquer outro, por mais privilegiado que seja, salvo nos casos previstos no art. 102, inciso I, alínea "d" da Constituição Federal. 
+
+Brasília, dia 10 de abril de 2022 
+Renato Teixeira Leite de La Rocque 
+Pregoeiro 
+TRIBUNAL DE CONTAS DA UNIÃO Secretaria de Licitações, Contratos e Patrimônio - Selip Diretoria de Licitações, Processamento de Contratos e Aditivos - Dilic 
+16 
+ANEXO I - TERMO DE REFERÊNCIA 
+1. DO OBJETO 
+
+Aquisição de solução de rede local sem fio, de sexta geração (IEEE 802.11ax), compreendendo o fornecimento de pontos de acesso (access points), controladores WLAN, software de gerenciamento, software de controle de acesso à rede (NAC) e garantia on-site de 60 (sessenta) meses. 
+O objeto a ser contratado é composto pelos seguintes itens: Item Descrição Qtd. 1 Pontos de acesso (access points) indoor. 470 2 Controladores WLAN para gerenciamento e controle centralizado dos pontos de acesso com redundância. 2 3 Software de controle de acesso (NAC) 1 4 Software de gerenciamento da solução. 1 5 Serviços de instalação e configuração do item 1 no Distrito Federal. 314 6 Serviços de instalação e configuração do item 2. 2 7 Serviços de instalação e configuração do item 3. 1 8 Serviços de instalação e configuração do item 4. 1 9 Treinamento para a gestão técnica da solução. 1 
